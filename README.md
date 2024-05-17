@@ -6,7 +6,9 @@ Este es mi repositorio de mi protafolio personal, desarrollado con HTML, CSS y J
 
 [![Portafolio Vianey Torres](assets/img/portafolio_pc_1.png)]
 
-(![alt text](assets/img/portafolio_pc_dark.png))
+[![alt text](assets/img/portafolio_pc_dark.png)]
+[![alt text](assets/img/portafolio_cel_1.png)]
+[![alt text](assets/img/portafolio_cel_dark.png)]
 
 ## Características del Portafolio
 
