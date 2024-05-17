@@ -33,7 +33,7 @@ Este es mi repositorio de mi protafolio personal, desarrollado con HTML, CSS y J
 
 1. **Clona el repositorio:** Ejecuta el siguiente comando en tu terminal para clonar este repositorio en tu máquina local:
 ```
-git clone https://github.com/EZT3BAN/portafolio.git
+git clone https://github.com/VianeyTorresCabrera/portafolio_tcv.git
 ```
 
 2. **Abre el proyecto:** Navega hasta la carpeta del proyecto clonado y abre el archivo `index.html` en tu navegador web.
