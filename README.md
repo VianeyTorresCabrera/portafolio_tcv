@@ -1,6 +1,6 @@
-# Portafolio Personal
+# Vianey Torres Cabrera
 
-Este es mi repositorio de mi protafolio personal, desarrollado con HTML, CSS y JavaScript. Este proyecto es realizado con el proposito de presentar mis habilidades como desarrollador Web Full-Stack
+Este proyecto es realizado con el proposito de presentar mis habilidades como desarrollador Web Full-Stack
 
 
 
@@ -21,8 +21,9 @@ Este es mi repositorio de mi protafolio personal, desarrollado con HTML, CSS y J
     - Contacto
 
 - **Diseño Responsive:** El portafolio está diseñado para adaptarse a diferentes dispositivos y tamaños de pantalla de PC, celular y tablet.
-- **Contacto: **El ares de contacto ha sido habilitada para comunicarse via e-mail, posteriormente se habilitara el contacto por medio de telefono.   
+- **Contacto: **El area de contacto ha sido habilitada para comunicarse via e-mail, posteriormente se habilitara el contacto por medio de telefono.   
 - **Dark y Light Mode:** El portafolio cuenta con un modo oscuro y un modo claro.
+- **English mode: ** El portafolio cuenta con una version en ingles
 
 - **Tecnologías utilizadas:**
    - HTML 
