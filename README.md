@@ -28,8 +28,9 @@ Este es mi repositorio de mi protafolio personal, desarrollado con HTML, CSS y J
    - HTML 
    - CSS
    - JavaScript
-   - 
+  
 ## Para la Ejecución de manera  local
+
 
 1. **Clona el repositorio:** Ejecuta el siguiente comando en tu terminal para clonar este repositorio en tu máquina local:
 ```
@@ -38,7 +39,7 @@ git clone https://github.com/VianeyTorresCabrera/portafolio_tcv.git
 
 2. **Abre el proyecto:** Navega hasta la carpeta del proyecto clonado y abre el archivo `index.html` en tu navegador web.
 
-3. **Explora:** ¡Explora el portafolio y familiarízate con mi trabajo y habilidades!
+
 
 ## Contribución
 
