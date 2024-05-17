@@ -24,6 +24,7 @@ Este proyecto es realizado con el proposito de presentar mis habilidades como de
 - **Contacto: **El area de contacto ha sido habilitada para comunicarse via e-mail, posteriormente se habilitara el contacto por medio de telefono.   
 - **Dark y Light Mode:** El portafolio cuenta con un modo oscuro y un modo claro.
 - **English mode: ** El portafolio cuenta con una version en ingles
+- **Redes sociales activas: **Puedes acceder a mis perfiles de linkedin, github y X
 
 - **Tecnologías utilizadas:**
    - HTML 
